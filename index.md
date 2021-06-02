@@ -1,5 +1,8 @@
 # Notes from Evelyn Yang
 
+## PolySynth Explained
+I've written up an explanation of the PolySynth class and some other related classes. It is just a summary of what I've learned from reading through the documentation and some 
+of the code in Allolib. Find the explanation [here](https://github.com/allolib-s21/notes-yangevelyn/blob/main/PolySynth.md).
 
 ## Quantization Tool
 A feature built into Allolib's GUI that allows users the option to quantize their piece while playing it. When turned on, the resulting synthSequence file will be quantized according to the user's tempo and note specifications.  
